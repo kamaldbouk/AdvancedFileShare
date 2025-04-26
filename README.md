@@ -27,4 +27,4 @@ Server-side: Logs client connections, file operations, and errors.
 Client-side: Logs file operations and errors.
 All logs are stored with timestamps for detailed tracking.
 
-_ Refer to the report (Networks_Report.pdf) for more details. _
+_Refer to the report (Networks_Report.pdf) for more details._
