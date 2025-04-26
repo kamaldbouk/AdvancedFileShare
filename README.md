@@ -4,7 +4,6 @@
 
 This project is a multithreaded client-server file sharing system developed for my Computer Networks course. It allows users to upload, download, and list files in a distributed environment.
 The project supports multiple simultaneous clients and includes features for file integrity verification and logging. It also features a GUI for easy access and a progress bar for visual indication of upload/download progress.
-
 ## Core Features
 
 ### 1. Client-Server Architecture
@@ -27,3 +26,5 @@ Supports versioning (e.g., filename_v2.txt) if a file with the same name exists.
 Server-side: Logs client connections, file operations, and errors.
 Client-side: Logs file operations and errors.
 All logs are stored with timestamps for detailed tracking.
+
+_ Refer to the report (Networks_Report.pdf) for more details. _
