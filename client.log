@@ -1,0 +1,57 @@
+2025-04-17 17:26:20,997 - INFO - Fetched file list from server.
+2025-04-17 17:26:49,289 - INFO - Uploading file: /Users/kamaldbouk/Desktop/1732982517620.jpeg (26431 bytes)
+2025-04-17 17:26:49,299 - INFO - File uploaded successfully: 1732982517620_v5.jpeg
+2025-04-17 17:34:12,207 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photo on 17-04-2025 at 5.32 PM.jpg (415079 bytes)
+2025-04-17 17:34:12,217 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:34:59,554 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photo on 17-04-2025 at 5.32 PM.jpg (415079 bytes)
+2025-04-17 17:34:59,556 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:35:06,463 - INFO - Uploading file: /Users/kamaldbouk/Desktop/1732982517620.jpeg (26431 bytes)
+2025-04-17 17:35:06,463 - ERROR - Error during upload: [Errno 32] Broken pipe
+2025-04-17 17:35:22,654 - INFO - Uploading file: /Users/kamaldbouk/Desktop/1732982517620.jpeg (26431 bytes)
+2025-04-17 17:35:22,657 - INFO - File uploaded successfully: 1732982517620_v6.jpeg
+2025-04-17 17:35:29,666 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photo on 17-04-2025 at 5.32 PM.jpg (415079 bytes)
+2025-04-17 17:35:29,670 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:35:46,127 - ERROR - Error fetching file list: [Errno 32] Broken pipe
+2025-04-17 17:35:59,463 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photo on 17-04-2025 at 5.32 PM.jpg (415079 bytes)
+2025-04-17 17:35:59,465 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:37:26,556 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photoon17-04-2025at5.32PM.jpg (415079 bytes)
+2025-04-17 17:37:26,567 - INFO - File uploaded successfully: Photoon17-04-2025at5.32PM.jpg
+2025-04-17 17:39:13,105 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Photoon17-04-2025at5.32PM.jpg (415079 bytes)
+2025-04-17 17:39:13,121 - INFO - File uploaded successfully: Photoon17-04-2025at5.32PM_v2.jpg
+2025-04-17 17:39:24,241 - INFO - Fetched file list from server.
+2025-04-17 17:39:50,298 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Booklet - Capstone Tradeshow 2025.pdf (533555 bytes)
+2025-04-17 17:39:50,310 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:40:09,170 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Booklet - Capstone Tradeshow 2025.pdf (533555 bytes)
+2025-04-17 17:40:09,172 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-17 17:40:12,926 - ERROR - Error fetching file list: [Errno 32] Broken pipe
+2025-04-19 16:29:50,597 - INFO - Uploading file: /Users/kamaldbouk/Desktop/ID.pdf (518250 bytes)
+2025-04-19 16:29:50,605 - ERROR - Error during upload: [Errno 32] Broken pipe
+2025-04-19 16:30:03,939 - INFO - Fetched file list from server.
+2025-04-19 16:30:14,384 - INFO - Uploading file: /Users/kamaldbouk/Desktop/ID.pdf (518250 bytes)
+2025-04-19 16:30:14,394 - INFO - File uploaded successfully: ID.pdf
+2025-04-19 16:30:23,846 - INFO - Fetched file list from server.
+2025-04-19 16:30:24,841 - INFO - Fetched file list from server.
+2025-04-19 16:30:29,704 - INFO - Downloading file: ID.pdf (518250 bytes)
+2025-04-19 16:30:37,121 - ERROR - Error during download: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2025-04-19 16:30:47,058 - ERROR - Error during download: 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte
+2025-04-19 16:30:51,675 - ERROR - Error fetching file list: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-04-19 16:31:04,783 - INFO - Fetched file list from server.
+2025-04-19 16:31:07,261 - WARNING - Failed to download file: d. Server response: ERROR: File not found
+2025-04-19 16:31:11,315 - INFO - Fetched file list from server.
+2025-04-19 16:31:15,152 - INFO - Downloading file: id.pdf (518250 bytes)
+2025-04-19 16:31:24,331 - INFO - Uploading file: /Users/kamaldbouk/Desktop/ID.pdf (518250 bytes)
+2025-04-19 16:31:24,333 - ERROR - Error during upload: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2025-04-19 16:31:30,165 - ERROR - Error fetching file list: 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte
+2025-04-19 16:31:35,428 - INFO - Fetched file list from server.
+2025-04-19 16:31:43,594 - INFO - Downloading file: hero.png (191811 bytes)
+2025-04-19 16:31:46,195 - INFO - File downloaded successfully: hero.png
+2025-04-19 16:31:54,591 - INFO - Uploading file: /Users/kamaldbouk/Desktop/hero.png (191811 bytes)
+2025-04-19 16:31:54,595 - INFO - File uploaded successfully: hero_v2.png
+2025-04-19 16:32:11,039 - INFO - Fetched file list from server.
+2025-04-19 16:32:11,986 - INFO - Fetched file list from server.
+2025-04-19 17:27:41,947 - INFO - Uploading file: /Users/kamaldbouk/Desktop/Study Plan.docx (16276 bytes)
+2025-04-19 17:27:41,951 - ERROR - Error during upload: [Errno 54] Connection reset by peer
+2025-04-19 17:27:51,170 - ERROR - Error fetching file list: [Errno 32] Broken pipe
+2025-04-19 17:28:07,246 - INFO - Fetched file list from server.
+2025-04-19 17:28:12,774 - INFO - Downloading file: hero.png (191811 bytes)
+2025-04-19 17:28:16,482 - INFO - File downloaded successfully: hero.png

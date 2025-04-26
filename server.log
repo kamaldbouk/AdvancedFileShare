@@ -1,0 +1,105 @@
+2025-04-17 17:26:19,453 - INFO - Connected to client: ('127.0.0.1', 65399)
+2025-04-17 17:26:20,996 - INFO - Received request from ('127.0.0.1', 65399): LIST
+2025-04-17 17:26:20,997 - INFO - Sent file list to ('127.0.0.1', 65399)
+2025-04-17 17:26:49,292 - INFO - Received request from ('127.0.0.1', 65399): UPLOAD 1732982517620.jpeg 26431
+2025-04-17 17:26:49,299 - INFO - Received file from ('127.0.0.1', 65399): 1732982517620_v5.jpeg (26431 bytes)
+2025-04-17 17:34:12,216 - ERROR - Error with client ('127.0.0.1', 65399): 'utf-8' codec can't decode byte 0xff in position 48: invalid start byte
+2025-04-17 17:34:12,217 - INFO - Connection closed for ('127.0.0.1', 65399)
+2025-04-17 17:34:35,460 - INFO - Connected to client: ('127.0.0.1', 65470)
+2025-04-17 17:34:59,555 - INFO - Received request from ('127.0.0.1', 65470): UPLOAD Photo on 17-04-2025 at 5.32 PM.jpg 415079
+2025-04-17 17:34:59,555 - ERROR - Error with client ('127.0.0.1', 65470): invalid literal for int() with base 10: 'on'
+2025-04-17 17:34:59,555 - INFO - Connection closed for ('127.0.0.1', 65470)
+2025-04-17 17:35:17,822 - INFO - Connected to client: ('127.0.0.1', 65478)
+2025-04-17 17:35:22,655 - INFO - Received request from ('127.0.0.1', 65478): UPLOAD 1732982517620.jpeg 26431
+2025-04-17 17:35:22,656 - INFO - Received file from ('127.0.0.1', 65478): 1732982517620_v6.jpeg (26431 bytes)
+2025-04-17 17:35:29,669 - INFO - Received request from ('127.0.0.1', 65478): UPLOAD Photo on 17-04-2025 at 5.32 PM.jpg 415079
+2025-04-17 17:35:29,669 - ERROR - Error with client ('127.0.0.1', 65478): invalid literal for int() with base 10: 'on'
+2025-04-17 17:35:29,670 - INFO - Connection closed for ('127.0.0.1', 65478)
+2025-04-17 17:35:51,958 - INFO - Connected to client: ('127.0.0.1', 65486)
+2025-04-17 17:35:59,464 - INFO - Received request from ('127.0.0.1', 65486): UPLOAD Photo on 17-04-2025 at 5.32 PM.jpg 415079
+2025-04-17 17:35:59,464 - ERROR - Error with client ('127.0.0.1', 65486): invalid literal for int() with base 10: 'on'
+2025-04-17 17:35:59,464 - INFO - Connection closed for ('127.0.0.1', 65486)
+2025-04-17 17:37:19,348 - INFO - Connected to client: ('127.0.0.1', 65499)
+2025-04-17 17:37:26,561 - INFO - Received request from ('127.0.0.1', 65499): UPLOAD Photoon17-04-2025at5.32PM.jpg 415079
+2025-04-17 17:37:26,566 - INFO - Received file from ('127.0.0.1', 65499): Photoon17-04-2025at5.32PM.jpg (415079 bytes)
+2025-04-17 17:39:13,114 - INFO - Received request from ('127.0.0.1', 65499): UPLOAD Photoon17-04-2025at5.32PM.jpg 415079
+2025-04-17 17:39:13,120 - INFO - Received file from ('127.0.0.1', 65499): Photoon17-04-2025at5.32PM_v2.jpg (415079 bytes)
+2025-04-17 17:39:24,239 - INFO - Received request from ('127.0.0.1', 65499): LIST
+2025-04-17 17:39:24,240 - INFO - Sent file list to ('127.0.0.1', 65499)
+2025-04-17 17:39:50,303 - INFO - Received request from ('127.0.0.1', 65499): UPLOAD Booklet - Capstone Tradeshow 2025.pdf 533555
+2025-04-17 17:39:50,308 - ERROR - Error with client ('127.0.0.1', 65499): invalid literal for int() with base 10: '-'
+2025-04-17 17:39:50,308 - INFO - Connection closed for ('127.0.0.1', 65499)
+2025-04-17 17:40:00,943 - INFO - Connected to client: ('127.0.0.1', 65521)
+2025-04-17 17:40:09,171 - INFO - Received request from ('127.0.0.1', 65521): UPLOAD Booklet - Capstone Tradeshow 2025.pdf 533555
+2025-04-17 17:40:09,172 - ERROR - Error with client ('127.0.0.1', 65521): invalid literal for int() with base 10: '-'
+2025-04-17 17:40:09,172 - INFO - Connection closed for ('127.0.0.1', 65521)
+2025-04-17 17:53:43,250 - INFO - Connected to client: ('127.0.0.1', 49280)
+2025-04-17 17:53:44,738 - INFO - Connection closed for ('127.0.0.1', 49280)
+2025-04-19 16:29:39,251 - INFO - Connection from ('127.0.0.1', 49520)
+2025-04-19 16:29:50,605 - ERROR - Error with ('127.0.0.1', 49520): 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2025-04-19 16:29:50,605 - INFO - Connection closed for ('127.0.0.1', 49520)
+2025-04-19 16:30:02,721 - INFO - Connected to client: ('127.0.0.1', 49524)
+2025-04-19 16:30:03,938 - INFO - Received request from ('127.0.0.1', 49524): LIST
+2025-04-19 16:30:03,938 - INFO - Sent file list to ('127.0.0.1', 49524)
+2025-04-19 16:30:14,385 - INFO - Received request from ('127.0.0.1', 49524): UPLOAD ID.pdf 518250
+2025-04-19 16:30:14,394 - INFO - Received file from ('127.0.0.1', 49524): ID.pdf (518250 bytes)
+2025-04-19 16:30:23,842 - INFO - Received request from ('127.0.0.1', 49524): LIST
+2025-04-19 16:30:23,844 - INFO - Sent file list to ('127.0.0.1', 49524)
+2025-04-19 16:30:24,840 - INFO - Received request from ('127.0.0.1', 49524): LIST
+2025-04-19 16:30:24,841 - INFO - Sent file list to ('127.0.0.1', 49524)
+2025-04-19 16:30:29,702 - INFO - Received request from ('127.0.0.1', 49524): DOWNLOAD ID.pdf
+2025-04-19 16:30:29,705 - INFO - Sent file to ('127.0.0.1', 49524): ID.pdf (518250 bytes)
+2025-04-19 16:30:37,121 - INFO - Received request from ('127.0.0.1', 49524): DOWNLOAD ID.PDF
+2025-04-19 16:30:59,846 - ERROR - Error with client ('127.0.0.1', 49524): [Errno 32] Broken pipe
+2025-04-19 16:30:59,847 - INFO - Connection closed for ('127.0.0.1', 49524)
+2025-04-19 16:31:03,203 - INFO - Connected to client: ('127.0.0.1', 49533)
+2025-04-19 16:31:04,782 - INFO - Received request from ('127.0.0.1', 49533): LIST
+2025-04-19 16:31:04,782 - INFO - Sent file list to ('127.0.0.1', 49533)
+2025-04-19 16:31:07,261 - INFO - Received request from ('127.0.0.1', 49533): DOWNLOAD d
+2025-04-19 16:31:07,261 - WARNING - File not found for ('127.0.0.1', 49533): d
+2025-04-19 16:31:11,313 - INFO - Received request from ('127.0.0.1', 49533): LIST
+2025-04-19 16:31:11,314 - INFO - Sent file list to ('127.0.0.1', 49533)
+2025-04-19 16:31:15,151 - INFO - Received request from ('127.0.0.1', 49533): DOWNLOAD id.pdf
+2025-04-19 16:31:15,155 - INFO - Sent file to ('127.0.0.1', 49533): id.pdf (518250 bytes)
+2025-04-19 16:31:24,331 - INFO - Received request from ('127.0.0.1', 49533): UPLOAD ID.pdf 518250
+2025-04-19 16:31:24,335 - INFO - Received file from ('127.0.0.1', 49533): ID_v2.pdf (518250 bytes)
+2025-04-19 16:31:30,165 - INFO - Received request from ('127.0.0.1', 49533): LIST
+2025-04-19 16:31:30,167 - INFO - Sent file list to ('127.0.0.1', 49533)
+2025-04-19 16:31:32,077 - ERROR - Error with client ('127.0.0.1', 49533): [Errno 54] Connection reset by peer
+2025-04-19 16:31:32,077 - INFO - Connection closed for ('127.0.0.1', 49533)
+2025-04-19 16:31:33,844 - INFO - Connected to client: ('127.0.0.1', 49537)
+2025-04-19 16:31:35,427 - INFO - Received request from ('127.0.0.1', 49537): LIST
+2025-04-19 16:31:35,427 - INFO - Sent file list to ('127.0.0.1', 49537)
+2025-04-19 16:31:43,591 - INFO - Received request from ('127.0.0.1', 49537): DOWNLOAD hero.png
+2025-04-19 16:31:43,595 - INFO - Sent file to ('127.0.0.1', 49537): hero.png (191811 bytes)
+2025-04-19 16:31:54,592 - INFO - Received request from ('127.0.0.1', 49537): UPLOAD hero.png 191811
+2025-04-19 16:31:54,594 - INFO - Received file from ('127.0.0.1', 49537): hero_v2.png (191811 bytes)
+2025-04-19 16:32:11,035 - INFO - Received request from ('127.0.0.1', 49537): LIST
+2025-04-19 16:32:11,037 - INFO - Sent file list to ('127.0.0.1', 49537)
+2025-04-19 16:32:11,985 - INFO - Received request from ('127.0.0.1', 49537): LIST
+2025-04-19 16:32:11,985 - INFO - Sent file list to ('127.0.0.1', 49537)
+2025-04-19 16:32:17,541 - INFO - Connection closed for ('127.0.0.1', 49537)
+2025-04-19 17:18:39,996 - INFO - Connected to client: ('127.0.0.1', 49842)
+2025-04-19 17:18:48,633 - INFO - Connected to client: ('127.0.0.1', 49846)
+2025-04-19 17:18:51,479 - INFO - Connected to client: ('127.0.0.1', 49848)
+2025-04-19 17:18:53,271 - INFO - Connected to client: ('127.0.0.1', 49850)
+2025-04-19 17:18:54,858 - INFO - Connected to client: ('127.0.0.1', 49852)
+2025-04-19 17:18:56,525 - INFO - Connected to client: ('127.0.0.1', 49853)
+2025-04-19 17:18:57,922 - INFO - Connected to client: ('127.0.0.1', 49856)
+2025-04-19 17:19:03,883 - INFO - Connection closed for ('127.0.0.1', 49856)
+2025-04-19 17:19:04,551 - INFO - Connection closed for ('127.0.0.1', 49853)
+2025-04-19 17:19:04,909 - INFO - Connection closed for ('127.0.0.1', 49852)
+2025-04-19 17:19:05,363 - INFO - Connection closed for ('127.0.0.1', 49850)
+2025-04-19 17:19:05,622 - INFO - Connection closed for ('127.0.0.1', 49848)
+2025-04-19 17:19:06,198 - INFO - Connection closed for ('127.0.0.1', 49846)
+2025-04-19 17:19:11,443 - INFO - Connection closed for ('127.0.0.1', 49842)
+2025-04-19 17:27:31,599 - INFO - Connected to client: ('127.0.0.1', 49928)
+2025-04-19 17:27:41,950 - INFO - Received request from ('127.0.0.1', 49928): UPLOAD Study Plan.docx 16276
+2025-04-19 17:27:41,951 - ERROR - Error with client ('127.0.0.1', 49928): invalid literal for int() with base 10: 'Plan.docx'
+2025-04-19 17:27:41,951 - INFO - Connection closed for ('127.0.0.1', 49928)
+2025-04-19 17:28:05,430 - INFO - Connected to client: ('127.0.0.1', 49935)
+2025-04-19 17:28:07,245 - INFO - Received request from ('127.0.0.1', 49935): LIST
+2025-04-19 17:28:07,245 - INFO - Sent file list to ('127.0.0.1', 49935)
+2025-04-19 17:28:12,773 - INFO - Received request from ('127.0.0.1', 49935): DOWNLOAD hero.png
+2025-04-19 17:28:12,778 - INFO - Sent file to ('127.0.0.1', 49935): hero.png (191811 bytes)
+2025-04-19 17:31:25,624 - INFO - Connection closed for ('127.0.0.1', 49935)
